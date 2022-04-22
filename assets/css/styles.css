@@ -1,0 +1,55 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header{
+    height: 3em;
+    padding: 3em;
+    font-size: 2em;
+    background-image: url(../imgs/porfas2.png);
+    background-size: 60em;
+    background-position: left;
+}
+
+.header h1{
+    margin: 0px;
+    font-weight: 400;
+}
+
+.products{
+    width: 80%;
+    margin: auto;
+    font-size: 1.2em;    
+}
+
+.products td{
+    width: 50%;
+    padding: 2em;
+}
+
+.products p{
+    border: 0.5px solid #ddd;
+    width: 55%;
+    padding: 0.4em;
+    box-shadow: 5px 5px 10px 1px rgb(233, 233, 233);
+}
+
+.products img{
+    width: 100%;
+    border: 0.5px solid #ddd;
+    box-shadow: 5px 5px 10px 2px rgb(233, 233, 233);
+}
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: #ddd;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font: 900;
+}
+
+.precio{
+    color: rgb(83, 83, 83);
+}
+
